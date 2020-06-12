@@ -1,5 +1,5 @@
 # Launcher-REDM
-REDM launcher for my server
+REDM launcher for my server **don't use it if not whitelisted and authorized.**
 
 ## [FR] Comment installer & utiliser :
 Cliquer sur **clone or download**, "Download zip" puis extrayer le dans un dossier de votre choix.
