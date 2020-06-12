@@ -11,4 +11,6 @@ Une fois extrait rendez-vous dans le dossier et lancez **Launcher RedM.exe** cli
 
 ### En cas de problème:
 Vider votre cache en utilisant le bouton **VIDE CACHE**
-Sinon utilisez notre **discord** (bouton DISCORD)
+
+
+###Pour tout autre probleme utilisez notre **discord** (bouton DISCORD)
