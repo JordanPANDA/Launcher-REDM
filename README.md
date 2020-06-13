@@ -1,3 +1,6 @@
+# Preview:
+![GitHub Logo](https://puu.sh/FW0jN/bd985cb59d.png)
+
 # Launcher-REDM
 REDM launcher for my server **don't use it if not whitelisted and authorized.**
 
